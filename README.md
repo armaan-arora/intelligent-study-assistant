@@ -190,8 +190,7 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Your Name**
+**Armaan Singh*
 
-LinkedIn: https://linkedin.com/in/your-linkedin
+LinkedIn:https://www.linkedin.com/in/armaan-singh-arora
 
-GitHub: https://github.com/yourusername
